@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\lab5.obj" 
+TO ".\Objects\mcu" 
+PRINT(".\Listings\mcu.m51") RAMSIZE(256) 
